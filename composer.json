@@ -9,6 +9,6 @@
     "seth-network/ske": "dev-master"
   },
   "scripts": {
-    "init-ske": "@php vendor/seth-network/ske/init.php"
+    "init-ske": "@php init.php"
   }
 }
