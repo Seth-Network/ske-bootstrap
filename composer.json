@@ -1,0 +1,14 @@
+{
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/seth-network/ske"
+    }
+  ],
+  "require": {
+    "seth-network/ske": "dev-master"
+  },
+  "scripts": {
+    "init-ske": "@php vendor/seth-network/ske/init.php"
+  }
+}
