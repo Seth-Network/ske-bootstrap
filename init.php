@@ -6,7 +6,7 @@ define('DOCROOT', realpath('./') . DIRECTORY_SEPARATOR);
 $t = '  ';
 $n = "\n";
 $application = 'application';
-$ske_home = DOCROOT . 'vendor/seth-network/ske/modules/ske/';
+$ske_home = DOCROOT . 'vendor/seth-network/ske/modules/ske-core/';
 $koseven_home = DOCROOT . 'vendor/koseven/koseven/';
 
 
